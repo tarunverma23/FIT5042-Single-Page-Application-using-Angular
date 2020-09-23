@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5a6f469-35a2-4cee-94ab-bb3e77d5297e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hs1kp5fOndg03XNck8X8wYk374" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/pokemon/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5a6f469-35a2-4cee-94ab-bb3e77d5297e" name="Default Changelist" comment="" />
+      <created>1600785132984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600785132984</updated>
+      <workItem from="1600785134489" duration="10562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="114" key="#Inspections" timestamp="1600852455537">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="354" y="114" key="#Inspections/0.23.1440.812@0.23.1440.812" timestamp="1600852455537" />
+    <state x="502" y="214" key="#Web_Browsers" timestamp="1600852944393">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="502" y="214" key="#Web_Browsers/0.23.1440.812@0.23.1440.812" timestamp="1600852944393" />
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom" timestamp="1600833917552">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1600833917552" />
+    <state width="1379" height="196" key="GridCell.Tab.0.center" timestamp="1600833917551">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1600833917551" />
+    <state width="1379" height="196" key="GridCell.Tab.0.left" timestamp="1600833917550">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1600833917550" />
+    <state width="1379" height="196" key="GridCell.Tab.0.right" timestamp="1600833917551">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1600833917551" />
+  </component>
+</project>
